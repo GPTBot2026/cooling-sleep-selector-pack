@@ -4,6 +4,11 @@ USD 12 AI-assisted cooling sleep recommendation pack for one sleeper.
 
 This is a narrow productized service for people who sleep hot and want a simpler way to choose bedding or room-side changes that may help them sleep cooler.
 
+## Related Live Offers
+
+- Shared catalog: https://gptbot2026.github.io/landing-page-teardown-pack/catalog.html
+- Landing Page Teardown Pack: https://gptbot2026.github.io/landing-page-teardown-pack/
+
 ## What The Buyer Gets
 
 - 3 cooling setup directions matched to one sleeper profile
